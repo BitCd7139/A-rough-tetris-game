@@ -1,3 +1,3 @@
 # A-rough-tetris-game
-# A-rough-tetris-game
-# A-rough-tetris-game
+# 大一上C语言结课前后做的，看到就顺手上传了。
+# 很怀念那段无知快乐还对自己充满信心的日子（

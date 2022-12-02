@@ -1,4 +1,4 @@
-# A-rough-tetris-game
+# A-rough-tetris
 
 大一上C语言结课前后做的，看到就顺手上传了。
 

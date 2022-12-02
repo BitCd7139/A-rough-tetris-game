@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\codes\project\tetris\main\main.cpp(189): warning C4101: “rots”: 未引用的局部变量
+d:\codes\project\tetris\main\main.cpp(227): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\codes\project\tetris\main\main.cpp(264): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\codes\project\tetris\main\main.cpp(270): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\codes\project\tetris\main\main.cpp(274): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\codes\project\tetris\main\main.cpp(278): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\codes\project\tetris\main\main.cpp(373): warning C4715: “playGame”: 不是所有的控件路径都返回值
+  main.vcxproj -> D:\Codes\Project\tetris\x64\Debug\main.exe
